@@ -29,6 +29,7 @@
 
     <dependencyManagement>
         <dependencies>
+            <!--            Project dependencies        -->
             <dependency>
                 <groupId>org.seleniumhq.selenium</groupId>
                 <artifactId>selenium-java</artifactId>
